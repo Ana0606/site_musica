@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(-45deg, #4e4e4e, #c9c9c9, #ffffff);
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.musicas{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.musicas a{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    padding: 10px;
+    text-decoration: none;
+    color: #000000;
+    background: silver;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+hr{
+    height: 5px;
+    background-color: #000000;
+}
+
+a{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    padding: 10px;
+    text-decoration: none;
+    color: #000000;
+    background: silver;
+    margin-left: 10px;
+    text-decoration: none;
+}
